@@ -1,0 +1,32 @@
+Use `cn - lab2`;
+
+-- INSERT INTO boat (bid, bname, color)
+-- VALUES 
+--    (100, 'maccies', 'red'),
+--    (101, 'boatymcboatface', 'red'),
+--    (102, 'kfc', 'red'),
+--    (103, 'hi', 'green'),
+--    (104, 'boatymcboatface2', 'blue'),
+--    (105, 'papa johns', 'green'),
+--    (106, 'JJ', 'yellow'),
+--    (108, 'hi2', 'red');
+-- INSERT INTO sailor (sid, sname, rating, age)
+-- VALUES 
+--    (1, 'Lubber', 8.01, 30),
+--    (2, 'barnicalb', 9.4, 24),
+--    (3, 'bruceb', 10, 41),
+--    (4, 'ali', 6.5, 23),
+--    (5, 'ba', 4.2, 19),
+--    (6, 'naveed', 10, 40),
+--    (7, 'bcolonb', 8.2, 34);
+-- INSERT INTO reserve (sid, bid, day)
+-- VALUES 
+--    (1, 100, '2020-03-24'),
+--    (1, 102, '2020-03-28'),
+--    (1, 105, '2020-03-20'),
+--    (3, 102, '2020-03-01'),
+--    (4, 101, '2020-03-05'),
+--    (6, 105, '2020-04-10'),
+--    (6, 104, '2020-03-15'),
+--    (3, 104, '2020-03-17');
+   
